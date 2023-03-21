@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: navy;
+    margin-left: 20px;
+}
+
+.center{
+    display: grid;
+    place-items: center;
+    background-color: red;
+}
